@@ -1,0 +1,1143 @@
+CRITICAL - 2023-01-30 00:34:18 --> The namespace delimiter is a backslash (\), not a slash (/). Route handler: "\App\Controllers\admin/Home::index"
+in SYSTEMPATH\Router\Router.php on line 473.
+ 1 SYSTEMPATH\Router\Router.php(473): CodeIgniter\Router\Exceptions\RouterException::forInvalidControllerName('\\App\\Controllers\\admin/Home::index')
+ 2 SYSTEMPATH\Router\Router.php(181): CodeIgniter\Router\Router->checkRoutes('cahya')
+ 3 SYSTEMPATH\CodeIgniter.php(815): CodeIgniter\Router\Router->handle('cahya')
+ 4 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-01-30 00:34:19 --> The namespace delimiter is a backslash (\), not a slash (/). Route handler: "\App\Controllers\admin/Home::index"
+in SYSTEMPATH\Router\Router.php on line 473.
+ 1 SYSTEMPATH\Router\Router.php(473): CodeIgniter\Router\Exceptions\RouterException::forInvalidControllerName('\\App\\Controllers\\admin/Home::index')
+ 2 SYSTEMPATH\Router\Router.php(181): CodeIgniter\Router\Router->checkRoutes('cahya')
+ 3 SYSTEMPATH\CodeIgniter.php(815): CodeIgniter\Router\Router->handle('cahya')
+ 4 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-01-30 00:34:35 --> The namespace delimiter is a backslash (\), not a slash (/). Route handler: "\App\Controllers\/admin/Home::index"
+in SYSTEMPATH\Router\Router.php on line 473.
+ 1 SYSTEMPATH\Router\Router.php(473): CodeIgniter\Router\Exceptions\RouterException::forInvalidControllerName('\\App\\Controllers\\/admin/Home::index')
+ 2 SYSTEMPATH\Router\Router.php(181): CodeIgniter\Router\Router->checkRoutes('cahya')
+ 3 SYSTEMPATH\CodeIgniter.php(815): CodeIgniter\Router\Router->handle('cahya')
+ 4 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-01-30 00:34:36 --> The namespace delimiter is a backslash (\), not a slash (/). Route handler: "\App\Controllers\/admin/Home::index"
+in SYSTEMPATH\Router\Router.php on line 473.
+ 1 SYSTEMPATH\Router\Router.php(473): CodeIgniter\Router\Exceptions\RouterException::forInvalidControllerName('\\App\\Controllers\\/admin/Home::index')
+ 2 SYSTEMPATH\Router\Router.php(181): CodeIgniter\Router\Router->checkRoutes('cahya')
+ 3 SYSTEMPATH\CodeIgniter.php(815): CodeIgniter\Router\Router->handle('cahya')
+ 4 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-01-30 00:34:36 --> The namespace delimiter is a backslash (\), not a slash (/). Route handler: "\App\Controllers\/admin/Home::index"
+in SYSTEMPATH\Router\Router.php on line 473.
+ 1 SYSTEMPATH\Router\Router.php(473): CodeIgniter\Router\Exceptions\RouterException::forInvalidControllerName('\\App\\Controllers\\/admin/Home::index')
+ 2 SYSTEMPATH\Router\Router.php(181): CodeIgniter\Router\Router->checkRoutes('cahya')
+ 3 SYSTEMPATH\CodeIgniter.php(815): CodeIgniter\Router\Router->handle('cahya')
+ 4 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-01-30 00:34:37 --> The namespace delimiter is a backslash (\), not a slash (/). Route handler: "\App\Controllers\/admin/Home::index"
+in SYSTEMPATH\Router\Router.php on line 473.
+ 1 SYSTEMPATH\Router\Router.php(473): CodeIgniter\Router\Exceptions\RouterException::forInvalidControllerName('\\App\\Controllers\\/admin/Home::index')
+ 2 SYSTEMPATH\Router\Router.php(181): CodeIgniter\Router\Router->checkRoutes('cahya')
+ 3 SYSTEMPATH\CodeIgniter.php(815): CodeIgniter\Router\Router->handle('cahya')
+ 4 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-01-30 00:34:37 --> The namespace delimiter is a backslash (\), not a slash (/). Route handler: "\App\Controllers\/admin/Home::index"
+in SYSTEMPATH\Router\Router.php on line 473.
+ 1 SYSTEMPATH\Router\Router.php(473): CodeIgniter\Router\Exceptions\RouterException::forInvalidControllerName('\\App\\Controllers\\/admin/Home::index')
+ 2 SYSTEMPATH\Router\Router.php(181): CodeIgniter\Router\Router->checkRoutes('cahya')
+ 3 SYSTEMPATH\CodeIgniter.php(815): CodeIgniter\Router\Router->handle('cahya')
+ 4 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-01-30 00:34:37 --> The namespace delimiter is a backslash (\), not a slash (/). Route handler: "\App\Controllers\/admin/Home::index"
+in SYSTEMPATH\Router\Router.php on line 473.
+ 1 SYSTEMPATH\Router\Router.php(473): CodeIgniter\Router\Exceptions\RouterException::forInvalidControllerName('\\App\\Controllers\\/admin/Home::index')
+ 2 SYSTEMPATH\Router\Router.php(181): CodeIgniter\Router\Router->checkRoutes('cahya')
+ 3 SYSTEMPATH\CodeIgniter.php(815): CodeIgniter\Router\Router->handle('cahya')
+ 4 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-01-30 00:35:47 --> The namespace delimiter is a backslash (\), not a slash (/). Route handler: "\App\Controllers\/admin/Home::index"
+in SYSTEMPATH\Router\Router.php on line 473.
+ 1 SYSTEMPATH\Router\Router.php(473): CodeIgniter\Router\Exceptions\RouterException::forInvalidControllerName('\\App\\Controllers\\/admin/Home::index')
+ 2 SYSTEMPATH\Router\Router.php(181): CodeIgniter\Router\Router->checkRoutes('cahya')
+ 3 SYSTEMPATH\CodeIgniter.php(815): CodeIgniter\Router\Router->handle('cahya')
+ 4 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-01-30 00:44:54 --> Class "App\Controllers\Admin\BaseController" not found
+in APPPATH\Controllers\Admin\Admin.php on line 5.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(312): include_once()
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Controllers\\Admin\\Admin.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Admin\\Admin')
+ 4 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Admin\\Admin')
+ 5 SYSTEMPATH\CodeIgniter.php(892): class_exists('\\App\\Controllers\\Admin\\Admin', true)
+ 6 SYSTEMPATH\CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-01-30 05:26:04 --> Class "App\Models\UsersModel" not found
+in APPPATH\Controllers\Admin\Login.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Login->process()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Login))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+ERROR - 2023-01-30 05:26:54 --> mysqli_sql_exception: Table 'binasafety.users' doesn't exist in C:\Users\cahya\Documents\Kerjaan\ci-cek-karyawan\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\Users\cahya\Documents\Kerjaan\ci-cek-karyawan\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\Users\cahya\Documents\Kerjaan\ci-cek-karyawan\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\Users\cahya\Documents\Kerjaan\ci-cek-karyawan\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\Users\cahya\Documents\Kerjaan\ci-cek-karyawan\system\Database\BaseBuilder.php(1602): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\Users\cahya\Documents\Kerjaan\ci-cek-karyawan\system\Model.php(267): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\Users\cahya\Documents\Kerjaan\ci-cek-karyawan\system\BaseModel.php(656): CodeIgniter\Model->doFirst()
+#6 C:\Users\cahya\Documents\Kerjaan\ci-cek-karyawan\app\Controllers\Admin\Login.php(22): CodeIgniter\BaseModel->first()
+#7 C:\Users\cahya\Documents\Kerjaan\ci-cek-karyawan\system\CodeIgniter.php(934): App\Controllers\Admin\Login->process()
+#8 C:\Users\cahya\Documents\Kerjaan\ci-cek-karyawan\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Login))
+#9 C:\Users\cahya\Documents\Kerjaan\ci-cek-karyawan\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\Users\cahya\Documents\Kerjaan\ci-cek-karyawan\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#11 C:\Users\cahya\Documents\Kerjaan\ci-cek-karyawan\system\Commands\Server\rewrite.php(47): require_once('C:\\Users\\cahya\\...')
+#12 {main}
+CRITICAL - 2023-01-30 05:26:54 --> Table 'binasafety.users' doesn't exist
+in SYSTEMPATH\Database\BaseConnection.php on line 645.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1602): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `users`
+WHERE `username` = :username:
+ LIMIT 1', [...], false)
+ 2 SYSTEMPATH\Model.php(267): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(656): CodeIgniter\Model->doFirst()
+ 4 APPPATH\Controllers\Admin\Login.php(22): CodeIgniter\BaseModel->first()
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Login->process()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Login))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2023-01-30 05:29:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-01-30 05:30:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-01-30 05:32:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-01-30 05:32:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-01-30 05:32:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-01-30 05:40:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-01-30 05:40:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-01-30 05:40:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-01-30 05:40:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-01-30 05:42:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-01-30 05:46:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-01-30 05:46:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-01-30 05:47:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-01-30 05:47:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-01-30 05:47:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-01-30 05:47:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-01-30 06:03:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-01-30 06:03:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-01-30 06:03:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-01-30 06:03:47 --> Invalid file: "header.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('header.php')
+ 2 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('header.php', [], true)
+ 3 APPPATH\Views\Admin\dashboard.php(2): view('header.php')
+ 4 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\dashboard.php')
+ 5 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('Admin/dashboard', [], true)
+ 7 APPPATH\Controllers\Admin\Admin.php(11): view('Admin/dashboard')
+ 8 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Admin->index()
+ 9 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Admin))
+10 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-01-30 06:04:16 --> Undefined variable $data_nama
+in APPPATH\Views\Admin\header.php on line 83.
+ 1 APPPATH\Views\Admin\header.php(83): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data_nama', 'APPPATH\\Views\\Admin\\header.php', 83)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\header.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('Admin/header.php', [], true)
+ 5 APPPATH\Views\Admin\dashboard.php(2): view('Admin/header.php')
+ 6 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\dashboard.php')
+ 7 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('Admin/dashboard', [], true)
+ 9 APPPATH\Controllers\Admin\Admin.php(11): view('Admin/dashboard')
+10 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Admin->index()
+11 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Admin))
+12 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2023-01-30 06:09:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-01-30 06:09:06 --> Undefined variable $data_level
+in APPPATH\Views\Admin\header.php on line 98.
+ 1 APPPATH\Views\Admin\header.php(98): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data_level', 'APPPATH\\Views\\Admin\\header.php', 98)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\header.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('Admin/header.php', [], true)
+ 5 APPPATH\Views\Admin\dashboard.php(2): view('Admin/header.php')
+ 6 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\dashboard.php')
+ 7 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('Admin/dashboard', [], true)
+ 9 APPPATH\Controllers\Admin\Admin.php(11): view('Admin/dashboard')
+10 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Admin->index()
+11 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Admin))
+12 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2023-01-30 06:21:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-01-30 06:21:53 --> Undefined variable $data_pekerjaan
+in APPPATH\Views\Admin\header.php on line 106.
+ 1 APPPATH\Views\Admin\header.php(106): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data_pekerjaan', 'APPPATH\\Views\\Admin\\header.php', 106)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\header.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('Admin/header.php', [], true)
+ 5 APPPATH\Views\Admin\dashboard.php(2): view('Admin/header.php')
+ 6 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\dashboard.php')
+ 7 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('Admin/dashboard', [], true)
+ 9 APPPATH\Controllers\Admin\Admin.php(11): view('Admin/dashboard')
+10 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Admin->index()
+11 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Admin))
+12 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-01-30 06:33:43 --> Undefined property: App\Models\PekerjaanModel::$db
+in APPPATH\Models\PekerjaanModel.php on line 10.
+ 1 APPPATH\Models\PekerjaanModel.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Models\\PekerjaanModel::$db', 'APPPATH\\Models\\PekerjaanModel.php', 10)
+ 2 APPPATH\Controllers\Admin\Admin.php(20): App\Models\PekerjaanModel->getdata()
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Admin->index()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Admin))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-01-30 06:35:56 --> Undefined property: App\Models\PekerjaanModel::$db
+in APPPATH\Models\PekerjaanModel.php on line 10.
+ 1 APPPATH\Models\PekerjaanModel.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Models\\PekerjaanModel::$db', 'APPPATH\\Models\\PekerjaanModel.php', 10)
+ 2 APPPATH\Controllers\Admin\Admin.php(20): App\Models\PekerjaanModel->getdata()
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Admin->index()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Admin))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-01-30 06:35:57 --> Undefined property: App\Models\PekerjaanModel::$db
+in APPPATH\Models\PekerjaanModel.php on line 10.
+ 1 APPPATH\Models\PekerjaanModel.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Models\\PekerjaanModel::$db', 'APPPATH\\Models\\PekerjaanModel.php', 10)
+ 2 APPPATH\Controllers\Admin\Admin.php(20): App\Models\PekerjaanModel->getdata()
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Admin->index()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Admin))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-01-30 06:35:57 --> Undefined property: App\Models\PekerjaanModel::$db
+in APPPATH\Models\PekerjaanModel.php on line 10.
+ 1 APPPATH\Models\PekerjaanModel.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Models\\PekerjaanModel::$db', 'APPPATH\\Models\\PekerjaanModel.php', 10)
+ 2 APPPATH\Controllers\Admin\Admin.php(20): App\Models\PekerjaanModel->getdata()
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Admin->index()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Admin))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-01-30 06:35:58 --> Undefined property: App\Models\PekerjaanModel::$db
+in APPPATH\Models\PekerjaanModel.php on line 10.
+ 1 APPPATH\Models\PekerjaanModel.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Models\\PekerjaanModel::$db', 'APPPATH\\Models\\PekerjaanModel.php', 10)
+ 2 APPPATH\Controllers\Admin\Admin.php(20): App\Models\PekerjaanModel->getdata()
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Admin->index()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Admin))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-01-30 06:35:58 --> Undefined property: App\Models\PekerjaanModel::$db
+in APPPATH\Models\PekerjaanModel.php on line 10.
+ 1 APPPATH\Models\PekerjaanModel.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Models\\PekerjaanModel::$db', 'APPPATH\\Models\\PekerjaanModel.php', 10)
+ 2 APPPATH\Controllers\Admin\Admin.php(20): App\Models\PekerjaanModel->getdata()
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Admin->index()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Admin))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-01-30 06:35:58 --> Undefined property: App\Models\PekerjaanModel::$db
+in APPPATH\Models\PekerjaanModel.php on line 10.
+ 1 APPPATH\Models\PekerjaanModel.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Models\\PekerjaanModel::$db', 'APPPATH\\Models\\PekerjaanModel.php', 10)
+ 2 APPPATH\Controllers\Admin\Admin.php(20): App\Models\PekerjaanModel->getdata()
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Admin->index()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Admin))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-01-30 06:35:58 --> Undefined property: App\Models\PekerjaanModel::$db
+in APPPATH\Models\PekerjaanModel.php on line 10.
+ 1 APPPATH\Models\PekerjaanModel.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Models\\PekerjaanModel::$db', 'APPPATH\\Models\\PekerjaanModel.php', 10)
+ 2 APPPATH\Controllers\Admin\Admin.php(20): App\Models\PekerjaanModel->getdata()
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Admin->index()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Admin))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-01-30 06:35:58 --> Undefined property: App\Models\PekerjaanModel::$db
+in APPPATH\Models\PekerjaanModel.php on line 10.
+ 1 APPPATH\Models\PekerjaanModel.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Models\\PekerjaanModel::$db', 'APPPATH\\Models\\PekerjaanModel.php', 10)
+ 2 APPPATH\Controllers\Admin\Admin.php(20): App\Models\PekerjaanModel->getdata()
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Admin->index()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Admin))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-01-30 06:35:59 --> Undefined property: App\Models\PekerjaanModel::$db
+in APPPATH\Models\PekerjaanModel.php on line 10.
+ 1 APPPATH\Models\PekerjaanModel.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Models\\PekerjaanModel::$db', 'APPPATH\\Models\\PekerjaanModel.php', 10)
+ 2 APPPATH\Controllers\Admin\Admin.php(20): App\Models\PekerjaanModel->getdata()
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Admin->index()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Admin))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-01-30 06:35:59 --> Undefined property: App\Models\PekerjaanModel::$db
+in APPPATH\Models\PekerjaanModel.php on line 10.
+ 1 APPPATH\Models\PekerjaanModel.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Models\\PekerjaanModel::$db', 'APPPATH\\Models\\PekerjaanModel.php', 10)
+ 2 APPPATH\Controllers\Admin\Admin.php(20): App\Models\PekerjaanModel->getdata()
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Admin->index()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Admin))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-01-30 06:35:59 --> Undefined property: App\Models\PekerjaanModel::$db
+in APPPATH\Models\PekerjaanModel.php on line 10.
+ 1 APPPATH\Models\PekerjaanModel.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Models\\PekerjaanModel::$db', 'APPPATH\\Models\\PekerjaanModel.php', 10)
+ 2 APPPATH\Controllers\Admin\Admin.php(20): App\Models\PekerjaanModel->getdata()
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Admin->index()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Admin))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-01-30 06:38:40 --> Undefined property: App\Models\PekerjaanModel::$db
+in APPPATH\Models\PekerjaanModel.php on line 10.
+ 1 APPPATH\Models\PekerjaanModel.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Models\\PekerjaanModel::$db', 'APPPATH\\Models\\PekerjaanModel.php', 10)
+ 2 APPPATH\Controllers\Admin\Admin.php(20): App\Models\PekerjaanModel->getdata()
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Admin->index()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Admin))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-01-30 06:38:41 --> Undefined property: App\Models\PekerjaanModel::$db
+in APPPATH\Models\PekerjaanModel.php on line 10.
+ 1 APPPATH\Models\PekerjaanModel.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Models\\PekerjaanModel::$db', 'APPPATH\\Models\\PekerjaanModel.php', 10)
+ 2 APPPATH\Controllers\Admin\Admin.php(20): App\Models\PekerjaanModel->getdata()
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Admin->index()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Admin))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-01-30 06:38:41 --> Undefined property: App\Models\PekerjaanModel::$db
+in APPPATH\Models\PekerjaanModel.php on line 10.
+ 1 APPPATH\Models\PekerjaanModel.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Models\\PekerjaanModel::$db', 'APPPATH\\Models\\PekerjaanModel.php', 10)
+ 2 APPPATH\Controllers\Admin\Admin.php(20): App\Models\PekerjaanModel->getdata()
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Admin->index()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Admin))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-01-30 06:38:41 --> Undefined property: App\Models\PekerjaanModel::$db
+in APPPATH\Models\PekerjaanModel.php on line 10.
+ 1 APPPATH\Models\PekerjaanModel.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Models\\PekerjaanModel::$db', 'APPPATH\\Models\\PekerjaanModel.php', 10)
+ 2 APPPATH\Controllers\Admin\Admin.php(20): App\Models\PekerjaanModel->getdata()
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Admin->index()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Admin))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-01-30 06:38:41 --> Undefined property: App\Models\PekerjaanModel::$db
+in APPPATH\Models\PekerjaanModel.php on line 10.
+ 1 APPPATH\Models\PekerjaanModel.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Models\\PekerjaanModel::$db', 'APPPATH\\Models\\PekerjaanModel.php', 10)
+ 2 APPPATH\Controllers\Admin\Admin.php(20): App\Models\PekerjaanModel->getdata()
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Admin->index()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Admin))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-01-30 06:38:41 --> Undefined property: App\Models\PekerjaanModel::$db
+in APPPATH\Models\PekerjaanModel.php on line 10.
+ 1 APPPATH\Models\PekerjaanModel.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Models\\PekerjaanModel::$db', 'APPPATH\\Models\\PekerjaanModel.php', 10)
+ 2 APPPATH\Controllers\Admin\Admin.php(20): App\Models\PekerjaanModel->getdata()
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Admin->index()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Admin))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-01-30 06:38:41 --> Undefined property: App\Models\PekerjaanModel::$db
+in APPPATH\Models\PekerjaanModel.php on line 10.
+ 1 APPPATH\Models\PekerjaanModel.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Models\\PekerjaanModel::$db', 'APPPATH\\Models\\PekerjaanModel.php', 10)
+ 2 APPPATH\Controllers\Admin\Admin.php(20): App\Models\PekerjaanModel->getdata()
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Admin->index()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Admin))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-01-30 06:38:42 --> Undefined property: App\Models\PekerjaanModel::$db
+in APPPATH\Models\PekerjaanModel.php on line 10.
+ 1 APPPATH\Models\PekerjaanModel.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Models\\PekerjaanModel::$db', 'APPPATH\\Models\\PekerjaanModel.php', 10)
+ 2 APPPATH\Controllers\Admin\Admin.php(20): App\Models\PekerjaanModel->getdata()
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Admin->index()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Admin))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-01-30 06:38:42 --> Undefined property: App\Models\PekerjaanModel::$db
+in APPPATH\Models\PekerjaanModel.php on line 10.
+ 1 APPPATH\Models\PekerjaanModel.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Models\\PekerjaanModel::$db', 'APPPATH\\Models\\PekerjaanModel.php', 10)
+ 2 APPPATH\Controllers\Admin\Admin.php(20): App\Models\PekerjaanModel->getdata()
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Admin->index()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Admin))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-01-30 06:38:42 --> Undefined property: App\Models\PekerjaanModel::$db
+in APPPATH\Models\PekerjaanModel.php on line 10.
+ 1 APPPATH\Models\PekerjaanModel.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Models\\PekerjaanModel::$db', 'APPPATH\\Models\\PekerjaanModel.php', 10)
+ 2 APPPATH\Controllers\Admin\Admin.php(20): App\Models\PekerjaanModel->getdata()
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Admin->index()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Admin))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2023-01-30 06:40:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-01-30 06:40:41 --> Undefined variable $data_pekerjaan
+in APPPATH\Views\Admin\header.php on line 106.
+ 1 APPPATH\Views\Admin\header.php(106): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data_pekerjaan', 'APPPATH\\Views\\Admin\\header.php', 106)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\header.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('Admin/header.php', [], true)
+ 5 APPPATH\Views\Admin\dashboard.php(2): view('Admin/header.php')
+ 6 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\dashboard.php')
+ 7 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('Admin/dashboard', [], true)
+ 9 APPPATH\Controllers\Admin\Admin.php(24): view('Admin/dashboard')
+10 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Admin->index()
+11 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Admin))
+12 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2023-01-30 06:41:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-01-30 06:41:36 --> Attempt to read property "pekerjaan" on array
+in APPPATH\Views\Admin\header.php on line 106.
+ 1 APPPATH\Views\Admin\header.php(106): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "pekerjaan" on array', 'APPPATH\\Views\\Admin\\header.php', 106)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\header.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('Admin/header.php', [], true)
+ 5 APPPATH\Views\Admin\dashboard.php(2): view('Admin/header.php')
+ 6 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\dashboard.php')
+ 7 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('Admin/dashboard', [], true)
+ 9 APPPATH\Controllers\Admin\Admin.php(24): view('Admin/dashboard', [...])
+10 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Admin->index()
+11 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Admin))
+12 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2023-01-30 06:41:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-01-30 06:41:37 --> Attempt to read property "pekerjaan" on array
+in APPPATH\Views\Admin\header.php on line 106.
+ 1 APPPATH\Views\Admin\header.php(106): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "pekerjaan" on array', 'APPPATH\\Views\\Admin\\header.php', 106)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\header.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('Admin/header.php', [], true)
+ 5 APPPATH\Views\Admin\dashboard.php(2): view('Admin/header.php')
+ 6 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\dashboard.php')
+ 7 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('Admin/dashboard', [], true)
+ 9 APPPATH\Controllers\Admin\Admin.php(24): view('Admin/dashboard', [...])
+10 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Admin->index()
+11 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Admin))
+12 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2023-01-30 06:41:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-01-30 06:41:38 --> Attempt to read property "pekerjaan" on array
+in APPPATH\Views\Admin\header.php on line 106.
+ 1 APPPATH\Views\Admin\header.php(106): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "pekerjaan" on array', 'APPPATH\\Views\\Admin\\header.php', 106)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\header.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('Admin/header.php', [], true)
+ 5 APPPATH\Views\Admin\dashboard.php(2): view('Admin/header.php')
+ 6 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\dashboard.php')
+ 7 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('Admin/dashboard', [], true)
+ 9 APPPATH\Controllers\Admin\Admin.php(24): view('Admin/dashboard', [...])
+10 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Admin->index()
+11 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Admin))
+12 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2023-01-30 06:41:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-01-30 06:41:38 --> Attempt to read property "pekerjaan" on array
+in APPPATH\Views\Admin\header.php on line 106.
+ 1 APPPATH\Views\Admin\header.php(106): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "pekerjaan" on array', 'APPPATH\\Views\\Admin\\header.php', 106)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\header.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('Admin/header.php', [], true)
+ 5 APPPATH\Views\Admin\dashboard.php(2): view('Admin/header.php')
+ 6 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\dashboard.php')
+ 7 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('Admin/dashboard', [], true)
+ 9 APPPATH\Controllers\Admin\Admin.php(24): view('Admin/dashboard', [...])
+10 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Admin->index()
+11 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Admin))
+12 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2023-01-30 06:41:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-01-30 06:41:38 --> Attempt to read property "pekerjaan" on array
+in APPPATH\Views\Admin\header.php on line 106.
+ 1 APPPATH\Views\Admin\header.php(106): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "pekerjaan" on array', 'APPPATH\\Views\\Admin\\header.php', 106)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\header.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('Admin/header.php', [], true)
+ 5 APPPATH\Views\Admin\dashboard.php(2): view('Admin/header.php')
+ 6 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\dashboard.php')
+ 7 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('Admin/dashboard', [], true)
+ 9 APPPATH\Controllers\Admin\Admin.php(24): view('Admin/dashboard', [...])
+10 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Admin->index()
+11 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Admin))
+12 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2023-01-30 06:41:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-01-30 06:41:38 --> Attempt to read property "pekerjaan" on array
+in APPPATH\Views\Admin\header.php on line 106.
+ 1 APPPATH\Views\Admin\header.php(106): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "pekerjaan" on array', 'APPPATH\\Views\\Admin\\header.php', 106)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\header.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('Admin/header.php', [], true)
+ 5 APPPATH\Views\Admin\dashboard.php(2): view('Admin/header.php')
+ 6 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\dashboard.php')
+ 7 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('Admin/dashboard', [], true)
+ 9 APPPATH\Controllers\Admin\Admin.php(24): view('Admin/dashboard', [...])
+10 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Admin->index()
+11 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Admin))
+12 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2023-01-30 06:41:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-01-30 06:41:38 --> Attempt to read property "pekerjaan" on array
+in APPPATH\Views\Admin\header.php on line 106.
+ 1 APPPATH\Views\Admin\header.php(106): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "pekerjaan" on array', 'APPPATH\\Views\\Admin\\header.php', 106)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\header.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('Admin/header.php', [], true)
+ 5 APPPATH\Views\Admin\dashboard.php(2): view('Admin/header.php')
+ 6 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\dashboard.php')
+ 7 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('Admin/dashboard', [], true)
+ 9 APPPATH\Controllers\Admin\Admin.php(24): view('Admin/dashboard', [...])
+10 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Admin->index()
+11 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Admin))
+12 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2023-01-30 06:42:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-01-30 06:42:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-01-30 06:42:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-01-30 06:42:11 --> Attempt to read property "pekerjaan" on array
+in APPPATH\Views\Admin\header.php on line 106.
+ 1 APPPATH\Views\Admin\header.php(106): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "pekerjaan" on array', 'APPPATH\\Views\\Admin\\header.php', 106)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\header.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('Admin/header.php', [], true)
+ 5 APPPATH\Views\Admin\dashboard.php(2): view('Admin/header.php')
+ 6 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\dashboard.php')
+ 7 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('Admin/dashboard', [], true)
+ 9 APPPATH\Controllers\Admin\Admin.php(24): view('Admin/dashboard', [...])
+10 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Admin->index()
+11 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Admin))
+12 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2023-01-30 06:42:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-01-30 06:42:51 --> Attempt to read property "nama_pekerjaan" on array
+in APPPATH\Views\Admin\header.php on line 106.
+ 1 APPPATH\Views\Admin\header.php(106): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "nama_pekerjaan" on array', 'APPPATH\\Views\\Admin\\header.php', 106)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\header.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('Admin/header.php', [], true)
+ 5 APPPATH\Views\Admin\dashboard.php(2): view('Admin/header.php')
+ 6 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\dashboard.php')
+ 7 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('Admin/dashboard', [], true)
+ 9 APPPATH\Controllers\Admin\Admin.php(24): view('Admin/dashboard', [...])
+10 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Admin->index()
+11 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Admin))
+12 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2023-01-30 06:42:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-01-30 06:42:52 --> Attempt to read property "nama_pekerjaan" on array
+in APPPATH\Views\Admin\header.php on line 106.
+ 1 APPPATH\Views\Admin\header.php(106): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "nama_pekerjaan" on array', 'APPPATH\\Views\\Admin\\header.php', 106)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\header.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('Admin/header.php', [], true)
+ 5 APPPATH\Views\Admin\dashboard.php(2): view('Admin/header.php')
+ 6 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\dashboard.php')
+ 7 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('Admin/dashboard', [], true)
+ 9 APPPATH\Controllers\Admin\Admin.php(24): view('Admin/dashboard', [...])
+10 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Admin->index()
+11 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Admin))
+12 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2023-01-30 06:42:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-01-30 06:42:53 --> Attempt to read property "nama_pekerjaan" on array
+in APPPATH\Views\Admin\header.php on line 106.
+ 1 APPPATH\Views\Admin\header.php(106): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "nama_pekerjaan" on array', 'APPPATH\\Views\\Admin\\header.php', 106)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\header.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('Admin/header.php', [], true)
+ 5 APPPATH\Views\Admin\dashboard.php(2): view('Admin/header.php')
+ 6 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\dashboard.php')
+ 7 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('Admin/dashboard', [], true)
+ 9 APPPATH\Controllers\Admin\Admin.php(24): view('Admin/dashboard', [...])
+10 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Admin->index()
+11 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Admin))
+12 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2023-01-30 06:42:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-01-30 06:42:53 --> Attempt to read property "nama_pekerjaan" on array
+in APPPATH\Views\Admin\header.php on line 106.
+ 1 APPPATH\Views\Admin\header.php(106): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "nama_pekerjaan" on array', 'APPPATH\\Views\\Admin\\header.php', 106)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\header.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('Admin/header.php', [], true)
+ 5 APPPATH\Views\Admin\dashboard.php(2): view('Admin/header.php')
+ 6 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\dashboard.php')
+ 7 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('Admin/dashboard', [], true)
+ 9 APPPATH\Controllers\Admin\Admin.php(24): view('Admin/dashboard', [...])
+10 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Admin->index()
+11 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Admin))
+12 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2023-01-30 06:42:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-01-30 06:42:53 --> Attempt to read property "nama_pekerjaan" on array
+in APPPATH\Views\Admin\header.php on line 106.
+ 1 APPPATH\Views\Admin\header.php(106): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "nama_pekerjaan" on array', 'APPPATH\\Views\\Admin\\header.php', 106)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\header.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('Admin/header.php', [], true)
+ 5 APPPATH\Views\Admin\dashboard.php(2): view('Admin/header.php')
+ 6 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\dashboard.php')
+ 7 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('Admin/dashboard', [], true)
+ 9 APPPATH\Controllers\Admin\Admin.php(24): view('Admin/dashboard', [...])
+10 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Admin->index()
+11 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Admin))
+12 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2023-01-30 06:42:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-01-30 06:42:53 --> Attempt to read property "nama_pekerjaan" on array
+in APPPATH\Views\Admin\header.php on line 106.
+ 1 APPPATH\Views\Admin\header.php(106): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "nama_pekerjaan" on array', 'APPPATH\\Views\\Admin\\header.php', 106)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\header.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('Admin/header.php', [], true)
+ 5 APPPATH\Views\Admin\dashboard.php(2): view('Admin/header.php')
+ 6 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\dashboard.php')
+ 7 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('Admin/dashboard', [], true)
+ 9 APPPATH\Controllers\Admin\Admin.php(24): view('Admin/dashboard', [...])
+10 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Admin->index()
+11 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Admin))
+12 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2023-01-30 06:42:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-01-30 06:42:53 --> Attempt to read property "nama_pekerjaan" on array
+in APPPATH\Views\Admin\header.php on line 106.
+ 1 APPPATH\Views\Admin\header.php(106): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "nama_pekerjaan" on array', 'APPPATH\\Views\\Admin\\header.php', 106)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\header.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('Admin/header.php', [], true)
+ 5 APPPATH\Views\Admin\dashboard.php(2): view('Admin/header.php')
+ 6 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\dashboard.php')
+ 7 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('Admin/dashboard', [], true)
+ 9 APPPATH\Controllers\Admin\Admin.php(24): view('Admin/dashboard', [...])
+10 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Admin->index()
+11 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Admin))
+12 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2023-01-30 06:42:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-01-30 06:42:54 --> Attempt to read property "nama_pekerjaan" on array
+in APPPATH\Views\Admin\header.php on line 106.
+ 1 APPPATH\Views\Admin\header.php(106): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "nama_pekerjaan" on array', 'APPPATH\\Views\\Admin\\header.php', 106)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\header.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('Admin/header.php', [], true)
+ 5 APPPATH\Views\Admin\dashboard.php(2): view('Admin/header.php')
+ 6 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\dashboard.php')
+ 7 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('Admin/dashboard', [], true)
+ 9 APPPATH\Controllers\Admin\Admin.php(24): view('Admin/dashboard', [...])
+10 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Admin->index()
+11 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Admin))
+12 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2023-01-30 06:42:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-01-30 06:42:54 --> Attempt to read property "nama_pekerjaan" on array
+in APPPATH\Views\Admin\header.php on line 106.
+ 1 APPPATH\Views\Admin\header.php(106): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "nama_pekerjaan" on array', 'APPPATH\\Views\\Admin\\header.php', 106)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\header.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('Admin/header.php', [], true)
+ 5 APPPATH\Views\Admin\dashboard.php(2): view('Admin/header.php')
+ 6 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\dashboard.php')
+ 7 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('Admin/dashboard', [], true)
+ 9 APPPATH\Controllers\Admin\Admin.php(24): view('Admin/dashboard', [...])
+10 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Admin->index()
+11 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Admin))
+12 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2023-01-30 06:44:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-01-30 08:35:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-01-30 08:35:49 --> Unsupported operand types: string / string
+in APPPATH\Views\Admin\header.php on line 108.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('Admin/header.php', [], true)
+ 4 APPPATH\Views\Admin\dashboard.php(2): view('Admin/header.php')
+ 5 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\dashboard.php')
+ 6 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 7 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('Admin/dashboard', [], true)
+ 8 APPPATH\Controllers\Admin\Admin.php(24): view('Admin/dashboard', [...])
+ 9 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Admin->index()
+10 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Admin))
+11 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-01-30 08:36:41 --> syntax error, unexpected variable "$p", expecting "," or ";"
+in APPPATH\Views\Admin\header.php on line 108.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('Admin/header.php', [], true)
+ 3 APPPATH\Views\Admin\dashboard.php(2): view('Admin/header.php')
+ 4 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\dashboard.php')
+ 5 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('Admin/dashboard', [], true)
+ 7 APPPATH\Controllers\Admin\Admin.php(24): view('Admin/dashboard', [...])
+ 8 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Admin->index()
+ 9 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Admin))
+10 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-01-30 08:36:43 --> syntax error, unexpected variable "$p", expecting "," or ";"
+in APPPATH\Views\Admin\header.php on line 108.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('Admin/header.php', [], true)
+ 3 APPPATH\Views\Admin\dashboard.php(2): view('Admin/header.php')
+ 4 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\dashboard.php')
+ 5 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('Admin/dashboard', [], true)
+ 7 APPPATH\Controllers\Admin\Admin.php(24): view('Admin/dashboard', [...])
+ 8 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Admin->index()
+ 9 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Admin))
+10 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-01-30 08:36:43 --> syntax error, unexpected variable "$p", expecting "," or ";"
+in APPPATH\Views\Admin\header.php on line 108.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('Admin/header.php', [], true)
+ 3 APPPATH\Views\Admin\dashboard.php(2): view('Admin/header.php')
+ 4 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\dashboard.php')
+ 5 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('Admin/dashboard', [], true)
+ 7 APPPATH\Controllers\Admin\Admin.php(24): view('Admin/dashboard', [...])
+ 8 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Admin->index()
+ 9 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Admin))
+10 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-01-30 08:36:44 --> syntax error, unexpected variable "$p", expecting "," or ";"
+in APPPATH\Views\Admin\header.php on line 108.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('Admin/header.php', [], true)
+ 3 APPPATH\Views\Admin\dashboard.php(2): view('Admin/header.php')
+ 4 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\dashboard.php')
+ 5 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('Admin/dashboard', [], true)
+ 7 APPPATH\Controllers\Admin\Admin.php(24): view('Admin/dashboard', [...])
+ 8 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Admin->index()
+ 9 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Admin))
+10 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2023-01-30 08:39:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-01-30 08:39:14 --> Unsupported operand types: string / string
+in APPPATH\Views\Admin\header.php on line 108.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('Admin/header.php', [], true)
+ 4 APPPATH\Views\Admin\dashboard.php(2): view('Admin/header.php')
+ 5 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\dashboard.php')
+ 6 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 7 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('Admin/dashboard', [], true)
+ 8 APPPATH\Controllers\Admin\Admin.php(24): view('Admin/dashboard', [...])
+ 9 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Admin->index()
+10 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Admin))
+11 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2023-01-30 08:39:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-01-30 08:39:15 --> Unsupported operand types: string / string
+in APPPATH\Views\Admin\header.php on line 108.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('Admin/header.php', [], true)
+ 4 APPPATH\Views\Admin\dashboard.php(2): view('Admin/header.php')
+ 5 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\dashboard.php')
+ 6 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 7 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('Admin/dashboard', [], true)
+ 8 APPPATH\Controllers\Admin\Admin.php(24): view('Admin/dashboard', [...])
+ 9 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Admin->index()
+10 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Admin))
+11 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2023-01-30 08:39:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-01-30 08:39:15 --> Unsupported operand types: string / string
+in APPPATH\Views\Admin\header.php on line 108.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('Admin/header.php', [], true)
+ 4 APPPATH\Views\Admin\dashboard.php(2): view('Admin/header.php')
+ 5 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\dashboard.php')
+ 6 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 7 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('Admin/dashboard', [], true)
+ 8 APPPATH\Controllers\Admin\Admin.php(24): view('Admin/dashboard', [...])
+ 9 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Admin->index()
+10 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Admin))
+11 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2023-01-30 08:39:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-01-30 08:39:16 --> Unsupported operand types: string / string
+in APPPATH\Views\Admin\header.php on line 108.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('Admin/header.php', [], true)
+ 4 APPPATH\Views\Admin\dashboard.php(2): view('Admin/header.php')
+ 5 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\dashboard.php')
+ 6 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 7 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('Admin/dashboard', [], true)
+ 8 APPPATH\Controllers\Admin\Admin.php(24): view('Admin/dashboard', [...])
+ 9 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Admin->index()
+10 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Admin))
+11 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2023-01-30 08:39:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-01-30 08:39:16 --> Unsupported operand types: string / string
+in APPPATH\Views\Admin\header.php on line 108.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('Admin/header.php', [], true)
+ 4 APPPATH\Views\Admin\dashboard.php(2): view('Admin/header.php')
+ 5 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\dashboard.php')
+ 6 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 7 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('Admin/dashboard', [], true)
+ 8 APPPATH\Controllers\Admin\Admin.php(24): view('Admin/dashboard', [...])
+ 9 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Admin->index()
+10 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Admin))
+11 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2023-01-30 08:39:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-01-30 08:39:16 --> Unsupported operand types: string / string
+in APPPATH\Views\Admin\header.php on line 108.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('Admin/header.php', [], true)
+ 4 APPPATH\Views\Admin\dashboard.php(2): view('Admin/header.php')
+ 5 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\dashboard.php')
+ 6 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 7 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('Admin/dashboard', [], true)
+ 8 APPPATH\Controllers\Admin\Admin.php(24): view('Admin/dashboard', [...])
+ 9 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Admin->index()
+10 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Admin))
+11 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2023-01-30 08:39:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-01-30 08:39:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-01-30 08:40:35 --> Undefined variable $d
+in APPPATH\Views\Admin\datapekerja.php on line 4.
+ 1 APPPATH\Views\Admin\datapekerja.php(4): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $d', 'APPPATH\\Views\\Admin\\datapekerja.php', 4)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\datapekerja.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('Admin/datapekerja', [], true)
+ 5 APPPATH\Controllers\Admin\DataPekerja.php(24): view('Admin/datapekerja', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\DataPekerja->index('1')
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\DataPekerja))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-01-30 08:40:37 --> Undefined variable $d
+in APPPATH\Views\Admin\datapekerja.php on line 4.
+ 1 APPPATH\Views\Admin\datapekerja.php(4): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $d', 'APPPATH\\Views\\Admin\\datapekerja.php', 4)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\datapekerja.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('Admin/datapekerja', [], true)
+ 5 APPPATH\Controllers\Admin\DataPekerja.php(24): view('Admin/datapekerja', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\DataPekerja->index('1')
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\DataPekerja))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-01-30 08:40:38 --> Undefined variable $d
+in APPPATH\Views\Admin\datapekerja.php on line 4.
+ 1 APPPATH\Views\Admin\datapekerja.php(4): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $d', 'APPPATH\\Views\\Admin\\datapekerja.php', 4)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\datapekerja.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('Admin/datapekerja', [], true)
+ 5 APPPATH\Controllers\Admin\DataPekerja.php(24): view('Admin/datapekerja', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\DataPekerja->index('1')
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\DataPekerja))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-01-30 08:40:47 --> Undefined variable $d
+in APPPATH\Views\Admin\datapekerja.php on line 4.
+ 1 APPPATH\Views\Admin\datapekerja.php(4): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $d', 'APPPATH\\Views\\Admin\\datapekerja.php', 4)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\datapekerja.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('Admin/datapekerja', [], true)
+ 5 APPPATH\Controllers\Admin\DataPekerja.php(24): view('Admin/datapekerja', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\DataPekerja->index('1')
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\DataPekerja))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-01-30 08:40:48 --> Undefined variable $d
+in APPPATH\Views\Admin\datapekerja.php on line 4.
+ 1 APPPATH\Views\Admin\datapekerja.php(4): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $d', 'APPPATH\\Views\\Admin\\datapekerja.php', 4)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\datapekerja.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('Admin/datapekerja', [], true)
+ 5 APPPATH\Controllers\Admin\DataPekerja.php(24): view('Admin/datapekerja', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\DataPekerja->index('1')
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\DataPekerja))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-01-30 08:40:49 --> Undefined variable $d
+in APPPATH\Views\Admin\datapekerja.php on line 4.
+ 1 APPPATH\Views\Admin\datapekerja.php(4): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $d', 'APPPATH\\Views\\Admin\\datapekerja.php', 4)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\datapekerja.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('Admin/datapekerja', [], true)
+ 5 APPPATH\Controllers\Admin\DataPekerja.php(24): view('Admin/datapekerja', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\DataPekerja->index('1')
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\DataPekerja))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-01-30 08:40:49 --> Undefined variable $d
+in APPPATH\Views\Admin\datapekerja.php on line 4.
+ 1 APPPATH\Views\Admin\datapekerja.php(4): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $d', 'APPPATH\\Views\\Admin\\datapekerja.php', 4)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\datapekerja.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('Admin/datapekerja', [], true)
+ 5 APPPATH\Controllers\Admin\DataPekerja.php(24): view('Admin/datapekerja', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\DataPekerja->index('1')
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\DataPekerja))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-01-30 08:40:49 --> Undefined variable $d
+in APPPATH\Views\Admin\datapekerja.php on line 4.
+ 1 APPPATH\Views\Admin\datapekerja.php(4): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $d', 'APPPATH\\Views\\Admin\\datapekerja.php', 4)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\datapekerja.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('Admin/datapekerja', [], true)
+ 5 APPPATH\Controllers\Admin\DataPekerja.php(24): view('Admin/datapekerja', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\DataPekerja->index('1')
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\DataPekerja))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-01-30 08:40:50 --> Undefined variable $d
+in APPPATH\Views\Admin\datapekerja.php on line 4.
+ 1 APPPATH\Views\Admin\datapekerja.php(4): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $d', 'APPPATH\\Views\\Admin\\datapekerja.php', 4)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\datapekerja.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('Admin/datapekerja', [], true)
+ 5 APPPATH\Controllers\Admin\DataPekerja.php(24): view('Admin/datapekerja', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\DataPekerja->index('1')
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\DataPekerja))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-01-30 08:48:33 --> Attempt to read property "nama_pekerjaan" on array
+in APPPATH\Views\Admin\datapekerja.php on line 4.
+ 1 APPPATH\Views\Admin\datapekerja.php(4): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "nama_pekerjaan" on array', 'APPPATH\\Views\\Admin\\datapekerja.php', 4)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\datapekerja.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('Admin/datapekerja', [], true)
+ 5 APPPATH\Controllers\Admin\DataPekerja.php(24): view('Admin/datapekerja', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\DataPekerja->index('1')
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\DataPekerja))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-01-30 08:51:00 --> Attempt to read property "nama_pekerjaan" on array
+in APPPATH\Views\Admin\datapekerja.php on line 4.
+ 1 APPPATH\Views\Admin\datapekerja.php(4): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "nama_pekerjaan" on array', 'APPPATH\\Views\\Admin\\datapekerja.php', 4)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\datapekerja.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('Admin/datapekerja', [], true)
+ 5 APPPATH\Controllers\Admin\DataPekerja.php(26): view('Admin/datapekerja', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\DataPekerja->index('1')
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\DataPekerja))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-01-30 08:51:30 --> Undefined array key "nama_pekerjaan"
+in APPPATH\Views\Admin\datapekerja.php on line 4.
+ 1 APPPATH\Views\Admin\datapekerja.php(4): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "nama_pekerjaan"', 'APPPATH\\Views\\Admin\\datapekerja.php', 4)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\datapekerja.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('Admin/datapekerja', [], true)
+ 5 APPPATH\Controllers\Admin\DataPekerja.php(26): view('Admin/datapekerja', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\DataPekerja->index('1')
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\DataPekerja))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-01-30 08:51:31 --> Undefined array key "nama_pekerjaan"
+in APPPATH\Views\Admin\datapekerja.php on line 4.
+ 1 APPPATH\Views\Admin\datapekerja.php(4): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "nama_pekerjaan"', 'APPPATH\\Views\\Admin\\datapekerja.php', 4)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\datapekerja.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('Admin/datapekerja', [], true)
+ 5 APPPATH\Controllers\Admin\DataPekerja.php(26): view('Admin/datapekerja', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\DataPekerja->index('1')
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\DataPekerja))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-01-30 08:51:31 --> Undefined array key "nama_pekerjaan"
+in APPPATH\Views\Admin\datapekerja.php on line 4.
+ 1 APPPATH\Views\Admin\datapekerja.php(4): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "nama_pekerjaan"', 'APPPATH\\Views\\Admin\\datapekerja.php', 4)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\datapekerja.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('Admin/datapekerja', [], true)
+ 5 APPPATH\Controllers\Admin\DataPekerja.php(26): view('Admin/datapekerja', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\DataPekerja->index('1')
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\DataPekerja))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-01-30 08:51:31 --> Undefined array key "nama_pekerjaan"
+in APPPATH\Views\Admin\datapekerja.php on line 4.
+ 1 APPPATH\Views\Admin\datapekerja.php(4): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "nama_pekerjaan"', 'APPPATH\\Views\\Admin\\datapekerja.php', 4)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\datapekerja.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('Admin/datapekerja', [], true)
+ 5 APPPATH\Controllers\Admin\DataPekerja.php(26): view('Admin/datapekerja', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\DataPekerja->index('1')
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\DataPekerja))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-01-30 08:51:31 --> Undefined array key "nama_pekerjaan"
+in APPPATH\Views\Admin\datapekerja.php on line 4.
+ 1 APPPATH\Views\Admin\datapekerja.php(4): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "nama_pekerjaan"', 'APPPATH\\Views\\Admin\\datapekerja.php', 4)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\datapekerja.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('Admin/datapekerja', [], true)
+ 5 APPPATH\Controllers\Admin\DataPekerja.php(26): view('Admin/datapekerja', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\DataPekerja->index('1')
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\DataPekerja))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-01-30 08:51:32 --> Undefined array key "nama_pekerjaan"
+in APPPATH\Views\Admin\datapekerja.php on line 4.
+ 1 APPPATH\Views\Admin\datapekerja.php(4): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "nama_pekerjaan"', 'APPPATH\\Views\\Admin\\datapekerja.php', 4)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\datapekerja.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('Admin/datapekerja', [], true)
+ 5 APPPATH\Controllers\Admin\DataPekerja.php(26): view('Admin/datapekerja', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\DataPekerja->index('1')
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\DataPekerja))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-01-30 08:53:56 --> Undefined variable $sql
+in APPPATH\Views\Admin\datapekerja.php on line 51.
+ 1 APPPATH\Views\Admin\datapekerja.php(51): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $sql', 'APPPATH\\Views\\Admin\\datapekerja.php', 51)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\datapekerja.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('Admin/datapekerja', [], true)
+ 5 APPPATH\Controllers\Admin\DataPekerja.php(26): view('Admin/datapekerja', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\DataPekerja->index('1')
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\DataPekerja))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-01-30 08:58:16 --> Undefined property: stdClass::$nama_pekerjaan
+in APPPATH\Views\Admin\datapekerja.php on line 68.
+ 1 APPPATH\Views\Admin\datapekerja.php(68): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$nama_pekerjaan', 'APPPATH\\Views\\Admin\\datapekerja.php', 68)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\datapekerja.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('Admin/datapekerja', [], true)
+ 5 APPPATH\Controllers\Admin\DataPekerja.php(26): view('Admin/datapekerja', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\DataPekerja->index('1')
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\DataPekerja))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-01-30 08:58:18 --> Undefined property: stdClass::$nama_pekerjaan
+in APPPATH\Views\Admin\datapekerja.php on line 68.
+ 1 APPPATH\Views\Admin\datapekerja.php(68): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$nama_pekerjaan', 'APPPATH\\Views\\Admin\\datapekerja.php', 68)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\datapekerja.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('Admin/datapekerja', [], true)
+ 5 APPPATH\Controllers\Admin\DataPekerja.php(26): view('Admin/datapekerja', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\DataPekerja->index('1')
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\DataPekerja))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2023-01-30 09:00:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-01-30 09:16:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-01-30 09:16:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-01-30 09:16:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-01-30 09:17:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-01-30 09:28:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-01-30 09:28:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-01-30 09:28:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-01-30 09:28:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-01-30 09:28:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-01-30 09:30:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-01-30 09:30:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-01-30 09:30:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-01-30 09:30:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-01-30 09:36:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
