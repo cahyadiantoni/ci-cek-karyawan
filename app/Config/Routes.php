@@ -44,6 +44,8 @@ $routes->get('/logout', 'Admin\Login::logout');
 $routes->get('/data-pengguna', 'Admin\DataPengguna::index');
 $routes->get('/data-pengguna/tambah', 'Admin\DataPengguna::tambah');
 $routes->post('/data-pengguna/simpan', 'Admin\DataPengguna::simpan');
+$routes->get('/data-pengguna/ubah/(:num)', 'Admin\DataPengguna::ubah/$1');
+$routes->post('/data-pengguna/edit', 'Admin\DataPengguna::edit');
 
 /*
  * --------------------------------------------------------------------

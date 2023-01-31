@@ -18,4 +18,19 @@ class PenggunaModel extends model{
 
         return true;
     }
+
+    public function getPenggunaById($id)
+    {
+        $builder = $this->db->table("tb_pengguna");
+        $builder->where('id_pengguna', $id);
+
+        return $builder->get()->getResult();
+    }
+
+    public function editData($data, $where)
+    {
+        $this->db->table("tb_pengguna")->update($data, $where);
+
+        return true;
+    }
 }

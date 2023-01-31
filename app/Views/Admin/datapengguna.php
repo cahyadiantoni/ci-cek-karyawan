@@ -64,7 +64,7 @@
 								<?php echo $data->level; ?>
 							</td>
 							<td>
-								<a href="?page=MyApp/edit_pengguna&kode=<?php echo $data->id_pengguna; ?>"
+								<a href="<?= base_url('data-pengguna/ubah') . "/" . $data->id_pengguna; ?>"
 								 title="Ubah" class="btn btn-success">
 									<i class="glyphicon glyphicon-edit"></i>
 								</a>

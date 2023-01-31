@@ -68,4 +68,55 @@ class DataPengguna extends BaseController
             echo "<script>alert('Data Gagal Disimpan'); window.location'" . base_url('data-pengguna') . "'; </script>";
         }
     }
+
+    public function ubah($id){
+        $getdata = $this->Pekerjaan->getData();
+        $datapengguna = $this->Pengguna->getPenggunaById($id);
+        $data = array(
+            'data_pekerjaan' => $getdata,
+            'data_pengguna' => $datapengguna,
+        );
+        if (session()->has('logged_in') == "") {
+            return redirect()->to("login");
+        } else {
+            return view('Admin/editpengguna', $data);
+        }
+    }
+
+    public function edit()
+    {
+        $id_pengguna = $this->request->getPost("id_pengguna");
+        $nama_pengguna = $this->request->getPost("nama_pengguna");
+        $username = $this->request->getPost("username");
+        $password_baru = $this->request->getPost("password_baru");
+
+        $datapengguna = $this->Pengguna->getPenggunaById($id_pengguna);
+        foreach ($datapengguna as $dp) : 
+            $password_lama = $dp->password;
+        endforeach;
+        if (isset($password_baru) ? $password_baru : NULL)
+            $password = password_hash($password_baru, PASSWORD_DEFAULT);
+        else{
+            $password = $password_lama;
+        }
+
+        $data = [
+            'id_pengguna' => $id_pengguna,
+            'nama_pengguna' => $nama_pengguna,
+            'username' => $username,
+            'password' => $password,
+        ];
+
+        $where = ['id_pengguna' => $id_pengguna];
+        try {
+            $edit = $this->Pengguna->editData($data, $where);
+            if ($edit) {
+                echo "<script>alert('Data Berhasil Diubah'); window.location='" . base_url('/data-pengguna') . "'; </script>";
+            } else {
+                echo "<script>alert('Data Gagal Diubah'); window.location='" . base_url('/data-pengguna') . "'; </script>";
+            }
+        } catch (\Exception $e) {
+            echo "<script>alert('Data Gagal Diubah'); window.location'" . base_url('/data-pengguna') . "'; </script>";
+        }
+    }
 }
