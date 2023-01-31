@@ -38,6 +38,16 @@ class PekerjaanModel extends model{
         return $builder->get()->getResult();
     }
 
+    public function searchPekerja($nama, $tgl_lahir, $id)
+    {
+        $builder = $this->db->table("tb_pekerja");
+        $builder->where('nama', $nama);
+        $builder->where('tgl_lahir', $tgl_lahir);
+        $builder->where('pekerjaan_id', $id);
+
+        return $builder->get()->getResult();
+    }
+
     public function simpanData($data)
     {
         $this->db->table("tb_pekerja")->insert($data);
