@@ -44,6 +44,7 @@ class DataPekerja extends BaseController
             return view('Admin/tambahpekerja', $data);
         }
     }
+    
     public function simpan($id)
     {
         $nama = $this->request->getPost("nama");

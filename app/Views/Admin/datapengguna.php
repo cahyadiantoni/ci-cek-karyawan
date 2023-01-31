@@ -19,7 +19,7 @@
 <section class="content">
 	<div class="box box-primary">
 		<div class="box-header">
-			<a href="?page=MyApp/add_pengguna" class="btn btn-primary">
+			<a href="<?= base_url('data-pengguna/tambah') ?>" class="btn btn-primary">
 				<i class="glyphicon glyphicon-plus"></i> Tambah Data</a>
 			<div class="box-tools pull-right">
 				<button type="button" class="btn btn-box-tool" data-widget="collapse">

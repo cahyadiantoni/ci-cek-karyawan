@@ -11,4 +11,11 @@ class PenggunaModel extends model{
 
         return $query->getResult();
     }
+
+    public function simpanData($data)
+    {
+        $this->db->table("tb_pengguna")->insert($data);
+
+        return true;
+    }
 }

@@ -32,4 +32,40 @@ class DataPengguna extends BaseController
             return view('Admin/datapengguna', $data);
         }
     }
+
+    public function tambah(){
+        $getdata = $this->Pekerjaan->getData();
+        $data = array(
+            'data_pekerjaan' => $getdata,
+        );
+        if (session()->has('logged_in') == "") {
+            return redirect()->to("login");
+        } else {
+            return view('Admin/tambahpengguna', $data);
+        }
+    }
+    
+    public function simpan()
+    {
+        $nama_pengguna = $this->request->getPost("nama_pengguna");
+        $username = $this->request->getPost("username");
+        $password = $this->request->getPost("password");
+
+        $data = [
+            'nama_pengguna' => $nama_pengguna,
+            'username' => $username,
+            'password' => password_hash($password, PASSWORD_DEFAULT),
+            'level' => 'Administrator',
+        ];
+        try {
+            $simpan = $this->Pengguna->simpanData($data);
+            if ($simpan) {
+                echo "<script>alert('Data Berhasil Disimpan'); window.location='" . base_url('data-pengguna') . "'; </script>";
+            } else {
+                echo "<script>alert('Data Gagal Disimpan'); window.location='" . base_url('data-pengguna') . "'; </script>";
+            }
+        } catch (\Exception $e) {
+            echo "<script>alert('Data Gagal Disimpan'); window.location'" . base_url('data-pengguna') . "'; </script>";
+        }
+    }
 }

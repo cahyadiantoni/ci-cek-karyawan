@@ -376,3 +376,71 @@ INFO - 2023-01-31 11:22:11 --> Session: Class initialized using 'CodeIgniter\Ses
 INFO - 2023-01-31 11:22:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
 INFO - 2023-01-31 11:22:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
 INFO - 2023-01-31 11:22:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-01-31 11:37:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-01-31 11:37:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-01-31 11:38:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-01-31 11:38:14 --> Too few arguments to function App\Controllers\Admin\DataPekerja::simpan(), 0 passed in C:\Users\cahya\Documents\Kerjaan\ci-cek-karyawan\system\CodeIgniter.php on line 934 and exactly 1 expected
+in APPPATH\Controllers\Admin\DataPekerja.php on line 48.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\DataPekerja->simpan()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\DataPekerja))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2023-01-31 11:39:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2023-01-31 11:39:17 --> mysqli_sql_exception: Unknown column 'nama_pengguna' in 'field list' in C:\Users\cahya\Documents\Kerjaan\ci-cek-karyawan\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\Users\cahya\Documents\Kerjaan\ci-cek-karyawan\system\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `tb...', 0)
+#1 C:\Users\cahya\Documents\Kerjaan\ci-cek-karyawan\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `tb...')
+#2 C:\Users\cahya\Documents\Kerjaan\ci-cek-karyawan\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `tb...')
+#3 C:\Users\cahya\Documents\Kerjaan\ci-cek-karyawan\system\Database\BaseBuilder.php(2295): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tb...', Array, false)
+#4 C:\Users\cahya\Documents\Kerjaan\ci-cek-karyawan\app\Models\PekerjaanModel.php(35): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 C:\Users\cahya\Documents\Kerjaan\ci-cek-karyawan\app\Controllers\Admin\DataPengguna.php(61): App\Models\PekerjaanModel->simpanData(Array)
+#6 C:\Users\cahya\Documents\Kerjaan\ci-cek-karyawan\system\CodeIgniter.php(934): App\Controllers\Admin\DataPengguna->simpan()
+#7 C:\Users\cahya\Documents\Kerjaan\ci-cek-karyawan\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\DataPengguna))
+#8 C:\Users\cahya\Documents\Kerjaan\ci-cek-karyawan\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Users\cahya\Documents\Kerjaan\ci-cek-karyawan\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 C:\Users\cahya\Documents\Kerjaan\ci-cek-karyawan\system\Commands\Server\rewrite.php(47): require_once('C:\\Users\\cahya\\...')
+#11 {main}
+CRITICAL - 2023-01-31 11:39:17 --> Unknown column 'nama_pengguna' in 'field list'
+in SYSTEMPATH\Database\BaseConnection.php on line 645.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2295): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tb_pekerja` (`nama_pengguna`, `username`, `password`, `level`) VALUES (:nama_pengguna:, :username:, :password:, :level:)', [...], false)
+ 2 APPPATH\Models\PekerjaanModel.php(35): CodeIgniter\Database\BaseBuilder->insert([...])
+ 3 APPPATH\Controllers\Admin\DataPengguna.php(61): App\Models\PekerjaanModel->simpanData([...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\DataPengguna->simpan()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\DataPengguna))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2023-01-31 11:40:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2023-01-31 11:40:16 --> mysqli_sql_exception: Unknown column 'nama_pengguna' in 'field list' in C:\Users\cahya\Documents\Kerjaan\ci-cek-karyawan\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\Users\cahya\Documents\Kerjaan\ci-cek-karyawan\system\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `tb...', 0)
+#1 C:\Users\cahya\Documents\Kerjaan\ci-cek-karyawan\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `tb...')
+#2 C:\Users\cahya\Documents\Kerjaan\ci-cek-karyawan\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `tb...')
+#3 C:\Users\cahya\Documents\Kerjaan\ci-cek-karyawan\system\Database\BaseBuilder.php(2295): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tb...', Array, false)
+#4 C:\Users\cahya\Documents\Kerjaan\ci-cek-karyawan\app\Models\PekerjaanModel.php(35): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 C:\Users\cahya\Documents\Kerjaan\ci-cek-karyawan\app\Controllers\Admin\DataPengguna.php(61): App\Models\PekerjaanModel->simpanData(Array)
+#6 C:\Users\cahya\Documents\Kerjaan\ci-cek-karyawan\system\CodeIgniter.php(934): App\Controllers\Admin\DataPengguna->simpan()
+#7 C:\Users\cahya\Documents\Kerjaan\ci-cek-karyawan\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\DataPengguna))
+#8 C:\Users\cahya\Documents\Kerjaan\ci-cek-karyawan\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Users\cahya\Documents\Kerjaan\ci-cek-karyawan\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 C:\Users\cahya\Documents\Kerjaan\ci-cek-karyawan\system\Commands\Server\rewrite.php(47): require_once('C:\\Users\\cahya\\...')
+#11 {main}
+CRITICAL - 2023-01-31 11:40:16 --> Unknown column 'nama_pengguna' in 'field list'
+in SYSTEMPATH\Database\BaseConnection.php on line 645.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2295): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tb_pekerja` (`nama_pengguna`, `username`, `password`, `level`) VALUES (:nama_pengguna:, :username:, :password:, :level:)', [...], false)
+ 2 APPPATH\Models\PekerjaanModel.php(35): CodeIgniter\Database\BaseBuilder->insert([...])
+ 3 APPPATH\Controllers\Admin\DataPengguna.php(61): App\Models\PekerjaanModel->simpanData([...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\DataPengguna->simpan()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\DataPengguna))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2023-01-31 11:40:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-01-31 11:42:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-01-31 11:42:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-01-31 11:42:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-01-31 11:42:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-01-31 11:42:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-01-31 11:42:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-01-31 11:42:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
