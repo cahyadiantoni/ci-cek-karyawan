@@ -81,7 +81,7 @@
 							</td>
 
 							<td>
-								<a href="?page=MyApp/edit_ahlik3&kode=<?php echo $data->id_pekerja; ?>" title="Ubah"
+								<a href="<?= base_url('data-pekerja/ubah') . "/" . $data->id_pekerja; ?>" title="Ubah"
 								 class="btn btn-success">
 									<i class="glyphicon glyphicon-edit"></i>
 								</a>

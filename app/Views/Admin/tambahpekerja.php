@@ -80,7 +80,7 @@
 
 					<div class="box-footer">
 						<input type="submit" name="Simpan" value="Simpan" class="btn btn-info">
-						<a href="<?= base_url('data-pekerja') ?>" class="btn btn-warning">Batal</a>
+						<a href="<?= base_url('data-pekerja') . "/" . $pekerjaan->id_pekerjaan ?>" class="btn btn-warning">Batal</a>
 					</div>
 				</form>
 			</div>

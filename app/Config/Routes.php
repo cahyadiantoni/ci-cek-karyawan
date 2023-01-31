@@ -38,6 +38,8 @@ $routes->post('/login/process', 'Admin\Login::process');
 $routes->get('/data-pekerja/(:num)', 'Admin\DataPekerja::index/$1');
 $routes->get('/data-pekerja/tambah/(:num)', 'Admin\DataPekerja::tambah/$1');
 $routes->post('/data-pekerja/simpan/(:num)', 'Admin\DataPekerja::simpan/$1');
+$routes->get('/data-pekerja/ubah/(:num)', 'Admin\DataPekerja::ubah/$1');
+$routes->post('/data-pekerja/edit/(:num)', 'Admin\DataPekerja::edit/$1');
 $routes->get('/logout', 'Admin\Login::logout');
 $routes->get('/data-pengguna', 'Admin\DataPengguna::index');
 $routes->get('/data-pengguna/tambah', 'Admin\DataPengguna::tambah');

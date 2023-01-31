@@ -30,9 +30,24 @@ class PekerjaanModel extends model{
         return $builder->get()->getResult();
     }
 
+    public function getPekerjaById($id)
+    {
+        $builder = $this->db->table("tb_pekerja");
+        $builder->where('id_pekerja', $id);
+
+        return $builder->get()->getResult();
+    }
+
     public function simpanData($data)
     {
         $this->db->table("tb_pekerja")->insert($data);
+
+        return true;
+    }
+
+    public function editData($data, $where)
+    {
+        $this->db->table("tb_pekerja")->update($data, $where);
 
         return true;
     }

@@ -8,7 +8,7 @@
 	</h1>
 	<ol class="breadcrumb">
 		<li>
-			<a href="index.php">
+			<a href="<?= base_url() ?>">
 				<i class="fa fa-home"></i>
 				<b>Binasafety Indonesia</b>
 			</a>
