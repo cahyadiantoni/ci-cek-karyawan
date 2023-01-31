@@ -221,3 +221,158 @@ INFO - 2023-01-31 01:58:37 --> Session: Class initialized using 'CodeIgniter\Ses
 INFO - 2023-01-31 01:58:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
 INFO - 2023-01-31 01:58:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
 INFO - 2023-01-31 02:02:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-01-31 02:35:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-01-31 02:35:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-01-31 02:36:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-01-31 02:36:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-01-31 02:36:22 --> Undefined variable $id_pekerjaan
+in APPPATH\Views\Admin\tambahpekerja.php on line 35.
+ 1 APPPATH\Views\Admin\tambahpekerja.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $id_pekerjaan', 'APPPATH\\Views\\Admin\\tambahpekerja.php', 35)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\tambahpekerja.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('Admin/tambahpekerja', [], true)
+ 5 APPPATH\Controllers\Admin\DataPekerja.php(44): view('Admin/tambahpekerja', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\DataPekerja->tambah('1')
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\DataPekerja))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2023-01-31 02:37:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-01-31 02:37:59 --> Undefined variable $id_pekerjaan
+in APPPATH\Views\Admin\tambahpekerja.php on line 35.
+ 1 APPPATH\Views\Admin\tambahpekerja.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $id_pekerjaan', 'APPPATH\\Views\\Admin\\tambahpekerja.php', 35)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\tambahpekerja.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('Admin/tambahpekerja', [], true)
+ 5 APPPATH\Controllers\Admin\DataPekerja.php(44): view('Admin/tambahpekerja', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\DataPekerja->tambah('1')
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\DataPekerja))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2023-01-31 02:38:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-01-31 02:38:01 --> Undefined variable $id_pekerjaan
+in APPPATH\Views\Admin\tambahpekerja.php on line 35.
+ 1 APPPATH\Views\Admin\tambahpekerja.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $id_pekerjaan', 'APPPATH\\Views\\Admin\\tambahpekerja.php', 35)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\tambahpekerja.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('Admin/tambahpekerja', [], true)
+ 5 APPPATH\Controllers\Admin\DataPekerja.php(44): view('Admin/tambahpekerja', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\DataPekerja->tambah('1')
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\DataPekerja))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2023-01-31 02:38:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-01-31 02:38:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-01-31 02:38:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-01-31 02:39:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-01-31 02:39:39 --> Undefined variable $id_pekerjaan
+in APPPATH\Views\Admin\tambahpekerja.php on line 56.
+ 1 APPPATH\Views\Admin\tambahpekerja.php(56): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $id_pekerjaan', 'APPPATH\\Views\\Admin\\tambahpekerja.php', 56)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\tambahpekerja.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('Admin/tambahpekerja', [], true)
+ 5 APPPATH\Controllers\Admin\DataPekerja.php(44): view('Admin/tambahpekerja', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\DataPekerja->tambah('1')
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\DataPekerja))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2023-01-31 02:40:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-01-31 02:40:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-01-31 02:41:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-01-31 02:41:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-01-31 02:43:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-01-31 02:43:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-01-31 02:46:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-01-31 02:50:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-01-31 02:51:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2023-01-31 02:51:12 --> mysqli_sql_exception: Unknown column 'keterangan' in 'field list' in C:\Users\cahya\Documents\Kerjaan\ci-cek-karyawan\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\Users\cahya\Documents\Kerjaan\ci-cek-karyawan\system\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `tb...', 0)
+#1 C:\Users\cahya\Documents\Kerjaan\ci-cek-karyawan\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `tb...')
+#2 C:\Users\cahya\Documents\Kerjaan\ci-cek-karyawan\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `tb...')
+#3 C:\Users\cahya\Documents\Kerjaan\ci-cek-karyawan\system\Database\BaseBuilder.php(2295): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tb...', Array, false)
+#4 C:\Users\cahya\Documents\Kerjaan\ci-cek-karyawan\app\Models\PekerjaanModel.php(35): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 C:\Users\cahya\Documents\Kerjaan\ci-cek-karyawan\app\Controllers\Admin\DataPekerja.php(67): App\Models\PekerjaanModel->simpanData(Array)
+#6 C:\Users\cahya\Documents\Kerjaan\ci-cek-karyawan\system\CodeIgniter.php(934): App\Controllers\Admin\DataPekerja->simpan('1')
+#7 C:\Users\cahya\Documents\Kerjaan\ci-cek-karyawan\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\DataPekerja))
+#8 C:\Users\cahya\Documents\Kerjaan\ci-cek-karyawan\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Users\cahya\Documents\Kerjaan\ci-cek-karyawan\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 C:\Users\cahya\Documents\Kerjaan\ci-cek-karyawan\system\Commands\Server\rewrite.php(47): require_once('C:\\Users\\cahya\\...')
+#11 {main}
+CRITICAL - 2023-01-31 02:51:12 --> Unknown column 'keterangan' in 'field list'
+in SYSTEMPATH\Database\BaseConnection.php on line 645.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2295): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tb_pekerja` (`nama`, `tgl_lahir`, `operator`, `keterangan`, `no_npwp`, `nama_perusahaan`, `alamat_perusahaan`) VALUES (:nama:, :tgl_lahir:, :operator:, :keterangan:, :no_npwp:, :nama_perusahaan:, :alamat_perusahaan:)', [...], false)
+ 2 APPPATH\Models\PekerjaanModel.php(35): CodeIgniter\Database\BaseBuilder->insert([...])
+ 3 APPPATH\Controllers\Admin\DataPekerja.php(67): App\Models\PekerjaanModel->simpanData([...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\DataPekerja->simpan('1')
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\DataPekerja))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2023-01-31 02:52:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-01-31 02:52:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2023-01-31 02:53:01 --> mysqli_sql_exception: Unknown column 'keterangan' in 'field list' in C:\Users\cahya\Documents\Kerjaan\ci-cek-karyawan\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\Users\cahya\Documents\Kerjaan\ci-cek-karyawan\system\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `tb...', 0)
+#1 C:\Users\cahya\Documents\Kerjaan\ci-cek-karyawan\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `tb...')
+#2 C:\Users\cahya\Documents\Kerjaan\ci-cek-karyawan\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `tb...')
+#3 C:\Users\cahya\Documents\Kerjaan\ci-cek-karyawan\system\Database\BaseBuilder.php(2295): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tb...', Array, false)
+#4 C:\Users\cahya\Documents\Kerjaan\ci-cek-karyawan\app\Models\PekerjaanModel.php(35): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 C:\Users\cahya\Documents\Kerjaan\ci-cek-karyawan\app\Controllers\Admin\DataPekerja.php(67): App\Models\PekerjaanModel->simpanData(Array)
+#6 C:\Users\cahya\Documents\Kerjaan\ci-cek-karyawan\system\CodeIgniter.php(934): App\Controllers\Admin\DataPekerja->simpan('1')
+#7 C:\Users\cahya\Documents\Kerjaan\ci-cek-karyawan\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\DataPekerja))
+#8 C:\Users\cahya\Documents\Kerjaan\ci-cek-karyawan\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Users\cahya\Documents\Kerjaan\ci-cek-karyawan\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 C:\Users\cahya\Documents\Kerjaan\ci-cek-karyawan\system\Commands\Server\rewrite.php(47): require_once('C:\\Users\\cahya\\...')
+#11 {main}
+CRITICAL - 2023-01-31 02:53:01 --> Unknown column 'keterangan' in 'field list'
+in SYSTEMPATH\Database\BaseConnection.php on line 645.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2295): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tb_pekerja` (`nama`, `tgl_lahir`, `operator`, `keterangan`, `no_npwp`, `nama_perusahaan`, `alamat_perusahaan`) VALUES (:nama:, :tgl_lahir:, :operator:, :keterangan:, :no_npwp:, :nama_perusahaan:, :alamat_perusahaan:)', [...], false)
+ 2 APPPATH\Models\PekerjaanModel.php(35): CodeIgniter\Database\BaseBuilder->insert([...])
+ 3 APPPATH\Controllers\Admin\DataPekerja.php(67): App\Models\PekerjaanModel->simpanData([...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\DataPekerja->simpan('1')
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\DataPekerja))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+ERROR - 2023-01-31 02:53:49 --> mysqli_sql_exception: Unknown column 'no_npwp' in 'field list' in C:\Users\cahya\Documents\Kerjaan\ci-cek-karyawan\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\Users\cahya\Documents\Kerjaan\ci-cek-karyawan\system\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `tb...', 0)
+#1 C:\Users\cahya\Documents\Kerjaan\ci-cek-karyawan\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `tb...')
+#2 C:\Users\cahya\Documents\Kerjaan\ci-cek-karyawan\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `tb...')
+#3 C:\Users\cahya\Documents\Kerjaan\ci-cek-karyawan\system\Database\BaseBuilder.php(2295): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tb...', Array, false)
+#4 C:\Users\cahya\Documents\Kerjaan\ci-cek-karyawan\app\Models\PekerjaanModel.php(35): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 C:\Users\cahya\Documents\Kerjaan\ci-cek-karyawan\app\Controllers\Admin\DataPekerja.php(67): App\Models\PekerjaanModel->simpanData(Array)
+#6 C:\Users\cahya\Documents\Kerjaan\ci-cek-karyawan\system\CodeIgniter.php(934): App\Controllers\Admin\DataPekerja->simpan('1')
+#7 C:\Users\cahya\Documents\Kerjaan\ci-cek-karyawan\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\DataPekerja))
+#8 C:\Users\cahya\Documents\Kerjaan\ci-cek-karyawan\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Users\cahya\Documents\Kerjaan\ci-cek-karyawan\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 C:\Users\cahya\Documents\Kerjaan\ci-cek-karyawan\system\Commands\Server\rewrite.php(47): require_once('C:\\Users\\cahya\\...')
+#11 {main}
+CRITICAL - 2023-01-31 02:53:49 --> Unknown column 'no_npwp' in 'field list'
+in SYSTEMPATH\Database\BaseConnection.php on line 645.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2295): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tb_pekerja` (`nama`, `tgl_lahir`, `operator`, `pekerjaan_id`, `no_npwp`, `nama_perusahaan`, `alamat_perusahaan`) VALUES (:nama:, :tgl_lahir:, :operator:, :pekerjaan_id:, :no_npwp:, :nama_perusahaan:, :alamat_perusahaan:)', [...], false)
+ 2 APPPATH\Models\PekerjaanModel.php(35): CodeIgniter\Database\BaseBuilder->insert([...])
+ 3 APPPATH\Controllers\Admin\DataPekerja.php(67): App\Models\PekerjaanModel->simpanData([...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\DataPekerja->simpan('1')
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\DataPekerja))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2023-01-31 02:54:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-01-31 02:54:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-01-31 02:55:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-01-31 11:21:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-01-31 11:21:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-01-31 11:21:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-01-31 11:21:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-01-31 11:21:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-01-31 11:21:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-01-31 11:22:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-01-31 11:22:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-01-31 11:22:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-01-31 11:22:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-01-31 11:22:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.

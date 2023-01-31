@@ -28,6 +28,12 @@ class PekerjaanModel extends model{
         $builder->orderBy('id_pekerja', 'DESC');
 
         return $builder->get()->getResult();
+    }
 
+    public function simpanData($data)
+    {
+        $this->db->table("tb_pekerja")->insert($data);
+
+        return true;
     }
 }
