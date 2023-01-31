@@ -51,4 +51,11 @@ class PekerjaanModel extends model{
 
         return true;
     }
+
+    public function hapusData($where)
+    {
+        $this->db->table("tb_pekerja")->delete($where);
+
+        return true;
+    }
 }

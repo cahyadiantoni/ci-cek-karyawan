@@ -125,4 +125,23 @@ class DataPekerja extends BaseController
             echo "<script>alert('Data Gagal Diubah'); window.location'" . base_url('/data-pekerja') ."/". $keterangan . "'; </script>";
         }
     }
+
+    public function hapus($id)
+    {
+        $datapekerja = $this->Pekerjaan->getPekerjaById($id);
+        foreach ($datapekerja as $dp):
+            $id_pekerjaan = $dp->pekerjaan_id;
+        endforeach;
+        $where = ['id_pekerja' => $id];
+        try {
+            $hapus = $this->Pekerjaan->hapusData($where);
+            if ($hapus) {
+                echo "<script>alert('Data Berhasil Dihapus'); window.location='" . base_url('/data-pekerja') ."/". $id_pekerjaan . "'; </script>";
+            } else {
+                echo "<script>alert('Data Gagal Dihapus'); window.location='" . base_url('/data-pekerja') ."/". $id_pekerjaan . "'; </script>";
+            }
+        } catch (\Exception $e) {
+            echo "<script>alert('Data Gagal Dihapus'); window.location'" . base_url('/data-pekerja') ."/". $id_pekerjaan . "'; </script>";
+        }
+    }
 }

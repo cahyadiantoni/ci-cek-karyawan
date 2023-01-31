@@ -85,7 +85,7 @@
 								 class="btn btn-success">
 									<i class="glyphicon glyphicon-edit"></i>
 								</a>
-								<a href="?page=MyApp/del_ahlik3&kode=<?php echo $data->id_pekerja; ?>" onclick="return confirm('Yakin Hapus Data Ini ?')"
+								<a href="<?= base_url('data-pekerja/hapus') . "/" . $data->id_pekerja; ?>" onclick="return confirm('Yakin Hapus Data Ini ?')"
 								 title="Hapus" class="btn btn-danger">
 									<i class="glyphicon glyphicon-trash"></i>
 							</td>

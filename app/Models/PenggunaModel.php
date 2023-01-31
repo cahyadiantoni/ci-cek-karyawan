@@ -33,4 +33,11 @@ class PenggunaModel extends model{
 
         return true;
     }
+
+    public function hapusData($where)
+    {
+        $this->db->table("tb_pengguna")->delete($where);
+
+        return true;
+    }
 }

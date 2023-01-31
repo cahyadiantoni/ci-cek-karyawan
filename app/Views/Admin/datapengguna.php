@@ -68,7 +68,7 @@
 								 title="Ubah" class="btn btn-success">
 									<i class="glyphicon glyphicon-edit"></i>
 								</a>
-								<a href="?page=MyApp/del_pengguna&kode=<?php echo $data->id_pengguna; ?>"
+								<a href="<?= base_url('data-pengguna/hapus') . "/" . $data->id_pengguna; ?>"
 								 onclick="return confirm('Apakah anda yakin hapus data ini ?')" title="Hapus" class="btn btn-danger">
 									<i class="glyphicon glyphicon-trash"></i>
 									</>
