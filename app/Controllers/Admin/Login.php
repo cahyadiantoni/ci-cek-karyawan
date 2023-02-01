@@ -27,7 +27,7 @@ class Login extends BaseController
                     'nama_pengguna' => $dataUser->nama_pengguna,
                     'logged_in' => TRUE
                 ]);
-                return redirect()->to(base_url('Admin'));
+                return redirect()->to(base_url('admin'));
             } else {
                 session()->setFlashdata('msg', 'Password Salah');
                 return redirect()->to('/login');

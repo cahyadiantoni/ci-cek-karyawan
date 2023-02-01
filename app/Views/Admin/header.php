@@ -33,7 +33,7 @@
 
 		<header class="main-header">
 			<!-- Logo -->
-			<a href="index.php" class="logo">
+			<a href="<?= base_url() ?>" class="logo">
 				<span class="logo-lg">
 					<img src="<?= base_url("dist/img/BSI.png")?>" width="70px">
 					<b>BSI</b>
@@ -95,7 +95,7 @@
 
 						<!-- Level  -->
 							<li class="treeview">
-								<a href="<?= base_url("Admin") ?>">
+								<a href="<?= base_url("admin") ?>">
 									<i class="fa fa-dashboard"></i>
 									<span>Dashboard</span>
 									<span class="pull-right-container">

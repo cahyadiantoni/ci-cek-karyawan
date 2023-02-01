@@ -34,7 +34,7 @@ $routes->get('/cari-pekerja/(:num)', 'Home::cari/$1');
 $routes->add('/search-pekerja/(:num)', 'Home::search/$1');
 
 //admin
-$routes->get('/Admin', 'Admin\Admin::index');
+$routes->get('/admin', 'Admin\Admin::index');
 $routes->get('/login', 'Admin\Login::index');
 $routes->post('/login/process', 'Admin\Login::process');
 $routes->get('/data-pekerja/(:num)', 'Admin\DataPekerja::index/$1');
